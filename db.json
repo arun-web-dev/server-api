@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": "5e48b233-04af-454d-96f9-c738b1ea5026",
+      "name": "arun kumar",
+      "email": "arun@gmail.com",
+      "flag": false
+    },
+    {
+      "id": "d6143512-2389-45e3-912c-dc860496eb56",
+      "name": "asdfas",
+      "email": "miuiandrew@gmail.com",
+      "flag": false
+    }
+  ]
+}

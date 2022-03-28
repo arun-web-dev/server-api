@@ -1,1 +1,1 @@
-web : json-server -p $PORT -w db.json
+web : json-server -p 80 -w db.json

@@ -1,1 +1,1 @@
-web : json-server -p 80 -w db.json
+web : node server.js
